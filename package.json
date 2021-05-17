@@ -9,10 +9,22 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "linxin",
+    "vue",
+    "cli"
+  ],
+  "author": "linxin",
+  "license": "MIT",
+  "homepage": "https://github.com/a143266543/testcli",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a143266543/testcli"
+  },
   "dependencies": {
-    "commander": "^7.2.0"
+    "commander": "^7.2.0",
+    "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.6",
+    "open": "^7.3.0"
   }
 }
